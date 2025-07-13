@@ -1,0 +1,902 @@
+[
+    {
+        "buying_price": 1,
+        "maint_cost": 2,
+        "doors": 2,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 2,
+        "doors": 5,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 3,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 4,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 1,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 1,
+        "doors": 4,
+        "persons": 4,
+        "luggage_boot": 3,
+        "safety": 1,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 2,
+        "doors": 5,
+        "persons": 4,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 2,
+        "doors": 2,
+        "persons": 4,
+        "luggage_boot": 3,
+        "safety": 2,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 4,
+        "doors": 2,
+        "persons": 4,
+        "luggage_boot": 1,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 3,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 3,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 1,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 2,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 1,
+        "doors": 4,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 2,
+        "doors": 5,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 4,
+        "doors": 5,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 3,
+        "doors": 5,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 3,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 3,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 1,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 2,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 3,
+        "doors": 5,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 1,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 3,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 1,
+        "safety": 1,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 4,
+        "doors": 2,
+        "persons": 4,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 3,
+        "doors": 5,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 1,
+        "doors": 3,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 1,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 2,
+        "doors": 4,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 4,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 1,
+        "doors": 5,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 1,
+        "doors": 4,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 3,
+        "doors": 2,
+        "persons": 5,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 3,
+        "doors": 5,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 3,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 4,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 4,
+        "doors": 3,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 2,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 1,
+        "doors": 4,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 1,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 2,
+        "doors": 3,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 3,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 3,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 3,
+        "doors": 3,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 1,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 2,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 1,
+        "doors": 5,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 4,
+        "doors": 2,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 1,
+        "doors": 4,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 1,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 2,
+        "doors": 4,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 3,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 2,
+        "doors": 4,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 3,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 2,
+        "doors": 5,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 3,
+        "doors": 4,
+        "persons": 4,
+        "luggage_boot": 1,
+        "safety": 1,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 2,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 4,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 3,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 2,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 3,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 3,
+        "doors": 5,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 4,
+        "doors": 2,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 4,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 2,
+        "doors": 2,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 2,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 4,
+        "doors": 5,
+        "persons": 4,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 2,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 3,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 2,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 1,
+        "doors": 5,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 2,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 1,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 1,
+        "doors": 2,
+        "persons": 5,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 4,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 2,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 2,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 1,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 4,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 3,
+        "doors": 3,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 2,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 4,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 1,
+        "doors": 2,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 2,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 2,
+        "doors": 5,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 4,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 2,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 1,
+        "doors": 5,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 1,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 1,
+        "doors": 5,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 4,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 2,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 2,
+        "acceptability": 4
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 1,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 3,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 3,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 4,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 4,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 1,
+        "doors": 4,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 3,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 3,
+        "doors": 2,
+        "persons": 5,
+        "luggage_boot": 3,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 3,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 1,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 1,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 3,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 4,
+        "doors": 3,
+        "persons": 4,
+        "luggage_boot": 3,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 2,
+        "doors": 5,
+        "persons": 4,
+        "luggage_boot": 1,
+        "safety": 1,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 3,
+        "doors": 4,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 4,
+        "doors": 3,
+        "persons": 2,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 3,
+        "doors": 4,
+        "persons": 4,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 1,
+        "doors": 2,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 3
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 1,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 3,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 3,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 2,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 1,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 4,
+        "maint_cost": 3,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 3,
+        "doors": 4,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 2
+    },
+    {
+        "buying_price": 2,
+        "maint_cost": 1,
+        "doors": 3,
+        "persons": 2,
+        "luggage_boot": 3,
+        "safety": 1,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 1,
+        "maint_cost": 1,
+        "doors": 5,
+        "persons": 2,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 1
+    },
+    {
+        "buying_price": 3,
+        "maint_cost": 3,
+        "doors": 3,
+        "persons": 5,
+        "luggage_boot": 1,
+        "safety": 2,
+        "acceptability": 4
+    }
+]
